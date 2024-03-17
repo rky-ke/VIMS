@@ -45,7 +45,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(915, 81)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Inventory Management System"
+        Me.Label1.Text = "Vehicle Inventory Management System"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'ToolStrip1
